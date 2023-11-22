@@ -1,4 +1,5 @@
 # ansible01
+<<<<<<< HEAD
 ansible test following tutourial 
 
 
@@ -10,3 +11,6 @@ failed to push to master,. testing it again
 
 
 test
+=======
+
+>>>>>>> 78c46d1f09ea6cd7b200d90edffda8481985c948
