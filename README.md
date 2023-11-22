@@ -14,3 +14,6 @@ test
 =======
 
 >>>>>>> 78c46d1f09ea6cd7b200d90edffda8481985c948
+
+
+here is another testing.. this is kind of working but I really dont know what im doing here
