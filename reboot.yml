@@ -1,0 +1,10 @@
+---
+
+- hosts: all
+  become: true
+  tasks:
+
+  - name: Reboot machine and send a message
+    ansible.builtin.reboot:
+      msg: "Rebooting machine in 5 seconds"
+    when: ansible_distribution == "Ubuntu"
